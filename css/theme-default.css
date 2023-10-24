@@ -162,7 +162,7 @@ h3 {
 }
 
 /* line 119, ../../Arafath/CL/December/231. Travel-02/HTML/scss/theme-default.scss */
-.black-bg {
+.#253237-bg {
   background: #020c26 !important;
 }
 
@@ -201,7 +201,7 @@ h3 {
 .overlay::before {
   position: absolute;
   content: "";
-  background-color: #040E27;
+  background-color: #253237;
   top: 0;
   left: 0;
   width: 100%;
