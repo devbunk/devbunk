@@ -677,7 +677,7 @@ button.ui-button::-moz-focus-inner {
 .ui-selectable-helper {
 	position: absolute;
 	z-index: 100;
-	border: 1px dotted #253237;
+	border: 1px dotted #0e0f0f;
 }
 .ui-selectmenu-menu {
 	padding: 0;
